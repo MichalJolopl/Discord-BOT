@@ -1,7 +1,7 @@
 const dotenv = require("dotenv").config({ path: __dirname + "/./../../.env" })
 
 module.exports = {
-  TOKEN: "ODE2MjAzNjkxNzU2NjE3NzU5.YD3i7A.XKWD4Cw8Y86B_XvTvVjCQJI87Ps",
+  TOKEN: "YOUR TOKEN PLACE",
   PREFIX: "!",
   OWNER: "Michał#0425",
   CORONA_API: "https://corona.lmao.ninja/v2",
